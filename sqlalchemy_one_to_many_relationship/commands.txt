@@ -1,0 +1,11 @@
+## command for installing requirements
+
+#1> ==> pip install sqlalchemy   
+
+#2> ==> pip install mysqlclient
+
+
+## command to run python file sequentially
+==> python main.py
+==> python populate.py
+==> python delete.py
